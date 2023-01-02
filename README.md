@@ -1,2 +1,2 @@
 # Linux
-This rrepo stores files and configs.
+This repo stores files and configs.
